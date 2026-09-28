@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 真实儿童影像，禁止提交（见 AGENT.md 红线 4）
+assets/ref/
